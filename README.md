@@ -1,7 +1,7 @@
 # Youtube-vanced (feature set)
 
 ### NOTE: 
-  > I AM NOT WORKING NOT WORKING OR IMPROVING ANY FILES FROM YOUTUBE VANCED, this is just an explenation of what the different features of these applications are and how to use them. I do neither encourege nor discourage the use of these applications, this is just a guide to help people understand what these applications are and how to use them.
+  > I AM NOT WORKING  ON OR IMPROVING ANY FILES FROM CONNECTED TO YOUTUBE, this is just an explenation of what the different features of these applications are and how to use them. I do neither encourege nor discourage the use of these applications, this is just a guide to help people understand what these applications are and how to use them.
 
 ## Android
 
