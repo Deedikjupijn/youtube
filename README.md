@@ -13,7 +13,7 @@ The Youtube feature set is a set of (what I personally think are) must have feat
   4. Dislike counter
 
 ## Mobile applications
-### Android
+### Androidx
 
   1. [YouTube Vanced APK](manager.apk)
     - This is the Youtube application made for android, you can install it and go trough the menu, first you will have to install micro-G and login in that application. After that you will be able to install the Youtube Vanced application.This application will have all the features described above. This application is made by a group of people and is open source, you can find the source code [here](https://github.com/TeamVanced/VancedManager), the application file will be downloaded from the [releases page](https://github.com/Deedikjupijn/vanced/releases/tag/vanced) of the repository.
@@ -34,4 +34,13 @@ The extensions for firefox are:
   2. [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
     - This addon does exactly what it says it does, it adds back the youtube dislike counter, so that you will be able to see how many people pressed the dislike/like button
   3. [Sponsorblock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+    - This addon allows for users to skip in video ads (for example sponsors), its made and kept up with everyone using it, every person can submit any in-video sponsors they encounterd and it will be added to the database of sponsors that can be skipped.
+
+### Chrome
+The extensions for Chrome are:
+  1. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+    - Ublock origin is for blocking all the ads on the Youtube video
+  2. [Return Youtube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
+    - This addon does exactly what it says it does, it adds back the youtube dislike counter, so that you will be able to see how many people pressed the dislike/like button
+  3. [Sponsorblock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
     - This addon allows for users to skip in video ads (for example sponsors), its made and kept up with everyone using it, every person can submit any in-video sponsors they encounterd and it will be added to the database of sponsors that can be skipped.
