@@ -27,7 +27,7 @@ For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus). Y
 
 The best option for browser users depends on the browser of choice and what kind of features you want. The way this will be installed is going to be using browser extensions for the different browsers that exsist.
 
-### Firefox
+### Firefox, onion and other gecko based browsers
 The extensions for firefox are:
   1. [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
     - Ublock origin is for blocking all the ads on the Youtube video
@@ -36,7 +36,7 @@ The extensions for firefox are:
   3. [Sponsorblock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
     - This addon allows for users to skip in video ads (for example sponsors), its made and kept up with everyone using it, every person can submit any in-video sponsors they encounterd and it will be added to the database of sponsors that can be skipped.
 
-### Chrome
+### Chrome, Brave and other chromium based browsers
 The extensions for Chrome are:
   1. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
     - Ublock origin is for blocking all the ads on the Youtube video
