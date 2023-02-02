@@ -12,6 +12,7 @@ The Youtube feature set is a set of (what I personally think are) must have feat
   3. Picture in picture mode
   4. Dislike counter
 
+## Mobile applications
 ### Android
 
   1. [YouTube Vanced APK](manager.apk)
