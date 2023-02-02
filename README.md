@@ -1,16 +1,26 @@
-# Youtube-vanced (feature set)
+# Youtube feature set
 
 ### NOTE: 
   > I AM NOT WORKING  ON OR IMPROVING ANY FILES FROM CONNECTED TO YOUTUBE, this is just an explenation of what the different features of these applications are and how to use them. I do neither encourege nor discourage the use of these applications, this is just a guide to help people understand what these applications are and how to use them.
 
-## Android
+## What is this Youtube Feature set?
+
+The Youtube feature set is a set of (what I personally think are) must have features that can be used with (most) youtube applications. These features are:
+
+  1. Ad blocking
+  2. In-video Sponsor skipping
+  3. Picture in picture mode
+  4. Dislike counter
+
+### Android
 
   1. [YouTube Vanced APK](manager.apk)
-    - The YouTube vanced android application can be found in this repository as the source code aswell as in the Releases.
+    - This is the Youtube application made for android, you can install it and go trough the menu, first you will have to install micro-G and login in that application. After that you will be able to install the Youtube Vanced application.This application will have all the features described above. This application is made by a group of people and is open source, you can find the source code [here](https://github.com/TeamVanced/VancedManager), the application file will be downloaded from the [releases page](https://github.com/Deedikjupijn/vanced/releases/tag/vanced) of the repository.
+  2. [Revanced Manager](https://github.com/revanced)
 
-## IOS
+### IOS
 
-For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus), this is an appliction you are able to download trough the 
+For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus). You will be able to install this application trough the [altstore](https://altstore.io/).
 
 ## Browsers
 
