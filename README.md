@@ -1,18 +1,18 @@
 # Youtube-vanced (feature set)
 
-NOTE: 
+### NOTE: 
   > I AM NOT WORKING NOT WORKING OR IMPROVING ANY FILES FROM YOUTUBE VANCED, this is just an explenation of what the different features of these applications are and how to use them. I do neither encourege nor discourage the use of these applications, this is just a guide to help people understand what these applications are and how to use them.
 
-## Youtube-Vanced for android
+## Android
 
   1. [YouTube Vanced APK](manager.apk)
     - The YouTube vanced android application can be found in this repository as the source code aswell as in the Releases.
 
-## For IOS users
+## IOS
 
 For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus), this is an appliction you are able to download trough the 
 
-## For Browser users
+## Browsers
 
 The best option for browser users depends on the browser of choice and what kind of features you want. The way this will be installed is going to be using browser extensions for the different browsers that exsist.
 
