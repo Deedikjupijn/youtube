@@ -26,14 +26,23 @@ The Youtube feature set is a set of (what I personally think are) must have feat
 
 For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus). You will be able to install this application trough the [altstore](https://altstore.io/).
 
-## Browsers
+## Mobile Browsers
+
+### Firefox
+The extensions for firefox are:
+  1. Ublock origin
+    - Ublock origin is an addon that promises to block all ads websites (including youtube).
+  2. Adguard AdBlocker (optional)
+    - This extension will block trackers and some more pop up ads. This is not necessary for blocking ads on youtube.
+
+## Desktop Browsers
 
 The best option for browser users depends on the browser of choice and what kind of features you want. The way this will be installed is going to be using browser extensions for the different browsers that exsist.
 
 ### Firefox, onion and other gecko based browsers
 The extensions for firefox are:
   1. [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-    - Ublock origin is for blocking all the ads on the Youtube video
+    - Ublock origin is an addon that promises to block all ads websites (including youtube).
   2. [Return Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
     - This addon does exactly what it says it does, it adds back the youtube dislike counter, so that you will be able to see how many people pressed the dislike/like button
   3. [Sponsorblock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
@@ -42,7 +51,7 @@ The extensions for firefox are:
 ### Chrome, Brave and other chromium based browsers
 The extensions for Chrome are:
   1. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-    - Ublock origin is for blocking all the ads on the Youtube video
+    - Ublock origin is an addon that promises to block all ads websites (including youtube).
   2. [Return Youtube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
     - This addon does exactly what it says it does, it adds back the youtube dislike counter, so that you will be able to see how many people pressed the dislike/like button
   3. [Sponsorblock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
