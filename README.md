@@ -27,9 +27,9 @@ The Youtube feature set is a set of (what I personally think are) must have feat
 For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus). You will be able to install this application trough the [altstore](https://altstore.io/).
 
 ## Mobile Browsers
-
+ Note: at this point only firefox allows installs for addons on mobile browsers
 ### Firefox
-The extensions for firefox are:
+
   1. Ublock origin
     - Ublock origin is an addon that promises to block all ads websites (including youtube).
   2. Adguard AdBlocker (optional)
