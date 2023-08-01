@@ -17,7 +17,7 @@ The Youtube feature set is a set of (what I personally think are) must have feat
 ## Mobile applications
 ### Android
 
-  2. [Revanced Manager](https://github.com/revanced)
+  1. [Revanced Manager](https://github.com/revanced)
     - This application makes you able to edit normal apk files, there are lots of applications that you are able to edit, one of them is the youtube application. The YouTube application has all the features that the older Vanced application had/has and more. This application is kept up to date (in comperison to the Vanced application). 
 NOTE: For an explanation I would refer to this Reddit threat: [https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/](https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/)
   2. [YouTube Vanced APK](manager.apk)
