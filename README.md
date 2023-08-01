@@ -17,10 +17,11 @@ The Youtube feature set is a set of (what I personally think are) must have feat
 ## Mobile applications
 ### Android
 
-  1. [YouTube Vanced APK](manager.apk)
-    - This is the Youtube application made for android, you can install it and go trough the menu, first you will have to install micro-G and login in that application. After that you will be able to install the Youtube Vanced application.This application will have all the features described above. This application is made by a group of people and is open source, you can find the source code [here](https://github.com/TeamVanced/VancedManager), the application file will be downloaded from the [releases page](https://github.com/Deedikjupijn/vanced/releases/tag/vanced) of the repository.
   2. [Revanced Manager](https://github.com/revanced)
-    - This is able to edit normal apk files, there are lots of applications that you are able to edit, one of them is the youtube application. The YouTube application has all the features that the older Vanced application had/has. This application is kept up to date (in comperison to the Vanced application). 
+    - This application makes you able to edit normal apk files, there are lots of applications that you are able to edit, one of them is the youtube application. The YouTube application has all the features that the older Vanced application had/has and more. This application is kept up to date (in comperison to the Vanced application). 
+NOTE: For an explanation I would refer to this Reddit threat: [https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/](https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/)
+  2. [YouTube Vanced APK](manager.apk)
+    - This is the Youtube application made for android, you can install it and go trough the menu, first you will have to install micro-G and login in that application. After that you will be able to install the Youtube Vanced application.This application will have all the features described above. This application is made by a group of people and is open source, you can find the source code [here](https://github.com/TeamVanced/VancedManager), the application file will be downloaded from the [releases page](https://github.com/Deedikjupijn/vanced/releases/tag/vanced) of the repository.
 
 ### IOS
 
@@ -39,7 +40,7 @@ For ios the best option is [uYouPlus](https://github.com/qnblackcat/uYouPlus). Y
 
 The best option for browser users depends on the browser of choice and what kind of features you want. The way this will be installed is going to be using browser extensions for the different browsers that exsist.
 
-### Firefox, onion and other gecko based browsers
+### Firefox, Librewolf and other gecko based browsers
 The extensions for firefox are:
   1. [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
     - Ublock origin is an addon that promises to block all ads websites (including youtube).
@@ -48,7 +49,7 @@ The extensions for firefox are:
   3. [Sponsorblock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
     - This addon allows for users to skip in video ads (for example sponsors), its made and kept up with everyone using it, every person can submit any in-video sponsors they encounterd and it will be added to the database of sponsors that can be skipped.
 
-### Chrome, Brave and other chromium based browsers
+### Chrome, Brave, Edge and other chromium based browsers
 The extensions for Chrome are:
   1. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
     - Ublock origin is an addon that promises to block all ads websites (including youtube).
