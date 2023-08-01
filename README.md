@@ -18,9 +18,7 @@ The Youtube feature set is a set of (what I personally think are) must have feat
 ### Android
 
   1. [Revanced Manager](https://github.com/revanced)
-    - This application makes you able to edit normal apk files, there are lots of applications that you are able to edit, one of them is the youtube application. The YouTube application has all the features that the older Vanced application had/has and more. This application is kept up to date (in comperison to the Vanced application). 
-
-NOTE: For an explanation I would refer to this Reddit threat: [https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/](https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/)
+    - This application makes you able to edit normal apk files, there are lots of applications that you are able to edit, one of them is the youtube application. The YouTube application has all the features that the older Vanced application had/has and more. This application is kept up to date (in comperison to the Vanced application). NOTE: For an explanation I would refer to this Reddit threat: [https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/](https://www.reddit.com/r/revancedapp/comments/10nyr2t/complete_guide_frequently_asked_questions/)
   2. [YouTube Vanced APK](manager.apk)
     - This is the Youtube application made for android, you can install it and go trough the menu, first you will have to install micro-G and login in that application. After that you will be able to install the Youtube Vanced application.This application will have all the features described above. This application is made by a group of people and is open source, you can find the source code [here](https://github.com/TeamVanced/VancedManager), the application file will be downloaded from the [releases page](https://github.com/Deedikjupijn/vanced/releases/tag/vanced) of the repository.
 
